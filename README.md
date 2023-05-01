@@ -14,7 +14,7 @@ Abstract: This project is to practice git.
 
 ```shell
 $ git clone {repo address}
-$ cd {repa name}
+$ cd {repo name}
 $ vi README.md
 ```
 
